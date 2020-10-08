@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imac 22\\source\\repos\\FormationAlgo\\FormationAlgo\\FormationAlgo.csproj": {}
+    "C:\\Users\\imac 22\\Documents\\GitHub\\Algos-Formation\\FormationAlgo\\FormationAlgo\\FormationAlgo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imac 22\\source\\repos\\FormationAlgo\\FormationAlgo\\FormationAlgo.csproj": {
+    "C:\\Users\\imac 22\\Documents\\GitHub\\Algos-Formation\\FormationAlgo\\FormationAlgo\\FormationAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imac 22\\source\\repos\\FormationAlgo\\FormationAlgo\\FormationAlgo.csproj",
+        "projectUniqueName": "C:\\Users\\imac 22\\Documents\\GitHub\\Algos-Formation\\FormationAlgo\\FormationAlgo\\FormationAlgo.csproj",
         "projectName": "FormationAlgo",
-        "projectPath": "C:\\Users\\imac 22\\source\\repos\\FormationAlgo\\FormationAlgo\\FormationAlgo.csproj",
+        "projectPath": "C:\\Users\\imac 22\\Documents\\GitHub\\Algos-Formation\\FormationAlgo\\FormationAlgo\\FormationAlgo.csproj",
         "packagesPath": "C:\\Users\\imac 22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imac 22\\source\\repos\\FormationAlgo\\FormationAlgo\\obj\\",
+        "outputPath": "C:\\Users\\imac 22\\Documents\\GitHub\\Algos-Formation\\FormationAlgo\\FormationAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
