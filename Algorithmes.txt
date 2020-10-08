@@ -1,0 +1,23 @@
+ALGORITHME 1
+
+Demander a l'utilisateur de rentrer son age.
+A l'aide de son age vérifier si sa date de naissance est inférieure a l'année actuelle.
+Si tel est le cas afficher le nom de l'ordinateur utilisé pour coder , la date de naissance de l'utilisateur et son age.
+
+ALGORITHME 2
+
+Vous etes dans un hopital et vous remarquez qu'un patient manque de sang; sur le coup il est demandé un nombre de poche de sang dont le patient a besoin du meme groupe que celui ci , (pas plus pas moins que le nombre demandé).
+
+Apres un recencement de plusieurs poches de sang le laboratoire se retrouve avec 50 poches de sang a examiner pour trouver non seulement le groupe sanguin du patient mais aussi le nombre de poche demandées?
+Le temps se raccourci donc plus le temps à perdre ; en tant que resolveur de solution il vous est demandé de reduire le temps a l'aide d'un simple algorithme.
+
+Consignes:
+
+-Demander le groupe sanguin du patient 
+-Demander le nombre de poches suffisante pour ses soins
+-Entrer les différents recencements
+-Vérifiez la compatibilité et le nombre demandé(les groupes sanguins recencés doivent exister).
+
+Sortie
+
+Le nombre de poche du groupe (groupe du patient ) est de (nombre de poches demandé) et le dernier recencement est celui du numéro(numero du dernier recencement compatible).
