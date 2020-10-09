@@ -1,0 +1,13 @@
+C:\Users\imac 22\source\repos\test\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\imac 22\source\repos\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\imac 22\source\repos\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\imac 22\source\repos\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\imac 22\source\repos\test\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\imac 22\source\repos\test\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\imac 22\source\repos\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+C:\Users\imac 22\source\repos\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\imac 22\source\repos\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\imac 22\source\repos\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\imac 22\source\repos\test\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\imac 22\source\repos\test\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\imac 22\source\repos\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
