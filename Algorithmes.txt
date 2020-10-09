@@ -22,6 +22,7 @@ Sortie
 
 Le nombre de poche du groupe (groupe du patient ) est de (nombre de poches demandé) et le dernier recencement est celui du numéro(numero du dernier recencement compatible).
 
+*********************************************************************************************************************************************************************************
 ALGORITHME 3
 
 Vous etes un fan de jeu de dévinettes et vous decidez de créer un application pour amuser vos amis.
