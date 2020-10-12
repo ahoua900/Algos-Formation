@@ -114,7 +114,7 @@ namespace FormationAlgo
         #endregion
 
         #region Algo de classement 
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             var random = new Random();
             var random1 = random.Next(1, 20);
@@ -172,10 +172,42 @@ namespace FormationAlgo
             }
 
             
-        }
+        }*/
         #endregion
 
-
+        #region Algo De recceuil d'heure de bus 
+        static void Main(string[] args)
+        {
+            List<int> heures = new List<int>();
+            var total = 0;
+            for (int i = 1; i <= 6; i++)
+            {
+                Console.WriteLine("Entrer l'heure du passage {0}",i);
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                var hr = int.Parse(Console.ReadLine());
+                Console.ResetColor();
+                heures.Add(hr);
+            }
+            foreach (var item in heures)
+            {
+                total += item;
+            }
+            var reveil = (total / 6) - 1;
+            if ((reveil + 2) < 8)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Le reveil sera a {0}h et il sera a l'heure aux cours ", reveil);
+                Console.ResetColor();
+            }
+            else if ((reveil + 1) >= 8)
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine("Le reveil sera a {0}h et mais il sera en retard aux cours donc plus la peine d'y aller ", reveil);
+                Console.ResetColor();
+            }
+           
+        }
+        #endregion
 
     }
 }
