@@ -11,3 +11,16 @@ C:\Users\imac 22\source\repos\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.
 C:\Users\imac 22\source\repos\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.dll
 C:\Users\imac 22\source\repos\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.pdb
 C:\Users\imac 22\source\repos\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.genruntimeconfig.cache
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\bin\Debug\netcoreapp3.1\FormationAlgo.exe
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\bin\Debug\netcoreapp3.1\FormationAlgo.deps.json
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\bin\Debug\netcoreapp3.1\FormationAlgo.runtimeconfig.json
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\bin\Debug\netcoreapp3.1\FormationAlgo.runtimeconfig.dev.json
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\bin\Debug\netcoreapp3.1\FormationAlgo.dll
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\bin\Debug\netcoreapp3.1\FormationAlgo.pdb
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.csprojAssemblyReference.cache
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.AssemblyInfoInputs.cache
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.AssemblyInfo.cs
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.csproj.CoreCompileInputs.cache
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.dll
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.pdb
+C:\Users\imac 22\Documents\GitHub\Algos-Formation\FormationAlgo\FormationAlgo\obj\Debug\netcoreapp3.1\FormationAlgo.genruntimeconfig.cache

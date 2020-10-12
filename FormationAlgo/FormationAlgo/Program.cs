@@ -72,7 +72,7 @@ namespace FormationAlgo
         #endregion
 
         #region recencement de poche de sang urgent 
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             List<string> recences = new List<string>();
             List<string> sanguin = new List<string>() { "A", "B", "AB", "O" };
@@ -110,10 +110,70 @@ namespace FormationAlgo
                 position++;
             }
 
-        }
+        }*/
         #endregion
 
+        #region Algo de classement 
+        static void Main(string[] args)
+        {
+            var random = new Random();
+            var random1 = random.Next(1, 20);
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("BIenvenue dans le jeu de dévinette ; veuillez deviner le nombre derriere la facette ");
+            Console.ResetColor();
 
+
+            var i = 1;
+            while (i <= 10)
+            {
+                var utilisateur = int.Parse(Console.ReadLine());
+                if (i == 10)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Dommage c'etait simple le nombre etait {0} n'hesitez pas a revenir jouer", random1);
+                    Console.ResetColor();
+                } 
+
+                    if (utilisateur == random1)
+                    {
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("Bravo vous avez su deviner le nombre il était bien {0}", random1);
+                    Console.ResetColor();
+                    break;
+                }
+
+                    else if (utilisateur > (random1 + 5))
+                    {
+                        Console.WriteLine("Trop grand vous etes loin de trouver ; {0} chances epuisés", i);
+                    }
+                                                
+                    else if (utilisateur < (random1 - 5))
+                    {
+                        Console.WriteLine("Trop pétit vous etes loin de trouver ;  {0} chances epuisés", i);
+                    }
+                        
+                    else if (utilisateur > (random1 + 5) && (utilisateur < (random1 + 5)))
+                    {
+                        Console.WriteLine("Proche du nombre essayez a nouveau ; {0} chances epuisés", i);
+                    }
+                        
+                    else if (utilisateur > (random1 - 5) && (utilisateur < (random1 - 5)))
+                    {
+                        Console.WriteLine("Proche du nombre essayez a nouveau; {0} chances epuisés", i);
+                    }
+                    else
+                    {
+                    Console.WriteLine("Veuillez reessayer s'il vous plait ;{0} chances epuisés", i);
+                    }
+                       
+
+                i++;
+                
+            }
+
+            
+        }
+        #endregion
 
 
 
