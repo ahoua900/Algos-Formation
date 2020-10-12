@@ -48,7 +48,7 @@ Ce dernier emprunte regulierement le bus chaque matin pour se rendre a son etabl
 Pour cela il se donne la tache de recceuillir les heures auxquelles  le bus passe a son arret chaque matin durant 6 jours afin d'avoir une heure a laquelle il se mettra son reveil et se rendre a l'heure a l'arret.
 
 Retenons qu'il commence les cours a partir de 8h00 ,donc si l'heure trouvée est inférieure a l'heure de debut des cours alors il pourra emprunter le bus dans le cas contraire il reste a la maison .
-
+NB: l'heure du reveil doit etre une heure avant son arrivé a l'arret 
 
 ALGORITHME 5
 
